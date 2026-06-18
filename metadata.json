@@ -1,0 +1,6 @@
+{
+  "name": "ClearAdvance PRO V2",
+  "description": "Executive Dashboard & Expense Management Phase 2",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
